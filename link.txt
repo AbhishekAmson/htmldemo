@@ -1,0 +1,9 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>IMAGE</title>
+</head>
+<body>
+<a href="www.google.com">click here to go to google</a>
+</body>
+</html>

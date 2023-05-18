@@ -1,0 +1,15 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>Form_radio_button</title>
+</head>
+<body>
+<form>
+<label for="name">Name</label>
+<input type="text" id="name" value="Abhi"> <br>
+<label for="mark">Marks</label>
+<input type="text" id="mark" value="500"> <br>
+<input type="submit" value="submit"> <br>
+</form>
+</body>
+</html>

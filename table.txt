@@ -1,0 +1,25 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>resume</title>
+</head>
+<body>
+<table>
+<tr>
+<th>Sl No</th>
+<th>Name</th>
+<th>Mark</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Manu</td>
+<td>480</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Vinu</td>
+<td>520</td>
+</tr>
+</table>
+</body>
+</html>

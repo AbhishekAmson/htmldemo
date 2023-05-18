@@ -1,0 +1,19 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>my document</title>
+</head>
+<body>
+<ol>
+<li>coffee</li>
+<li>milk</li>
+<li>sugar</li>
+</ol>
+<ul>
+<li>coffee</li>
+<li>milk</li>
+<li>sugar</li>
+</ul>
+
+</body>
+</html>
